@@ -1,0 +1,38 @@
+_repo: Dartmoor_45885
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Haslehust, E. W.
+    aliases:
+    - Haslehurst, E. W.
+    - Haslehust, Ernest William
+    - Haslehurst, Ernest William
+    birthdate: 1866
+    deathdate: 1949
+    gutenberg_agent_id: '26576'
+    url: http://www.gutenberg.org/2009/agents/26576
+    wikipedia: https://en.wikipedia.org/wiki/Ernest_William_Haslehust
+covers:
+- cover_type: archival
+  image_path: 45885-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Salmon, Arthur L. (Arthur Leslie)
+    birthdate: 1865
+    gutenberg_agent_id: '32322'
+    url: http://www.gutenberg.org/2009/agents/32322
+description: ''
+gutenberg_issued: '2014-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45885'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Beautiful England
+subjects:
+- !lcc 'DA'
+- !lcsh 'Dartmoor (England) -- Description and travel'
+title: Dartmoor
+url: http://www.gutenberg.org/ebooks/45885
